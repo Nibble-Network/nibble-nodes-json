@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "name": "nibblenode.net",
+      "url": "nibblenode.net",
+      "port": 17122,
+      "ssl": false
+    },
+    {
+      "name": "nbx.hackerknowledge.de",
+      "url": "node.nbx.hackerknowledge.de",
+      "port": 17122,
+      "ssl": false
+    },
+    {
+      "name": "nibble-nibble.net",
+      "url": "nibble-nibble.net",
+      "port": 17122,
+      "ssl": false
+    },
+    {
+      "name": "stroppy-nbx.ddns.net",
+      "url": "stroppy-nbx.ddns.net",
+      "port": 17122,
+      "ssl": false
+    }
+  ]
+}
