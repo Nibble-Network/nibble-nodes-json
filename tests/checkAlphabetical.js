@@ -2,7 +2,7 @@
 
 const assert = require('assert')
 const crypto = require('crypto')
-const data = require('../turtlecoin-nodes.json')
+const data = require('../nibbler-nodes.json')
 
 function sha256 (msg) {
   if (typeof msg !== 'string') msg = JSON.stringify(msg)
