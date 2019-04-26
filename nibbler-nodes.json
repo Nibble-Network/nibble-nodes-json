@@ -17,12 +17,6 @@
       "url": "nibble-nibble.net",
       "port": 17122,
       "ssl": false
-    },
-    {
-      "name": "stroppy-nbx.ddns.net",
-      "url": "stroppy-nbx.ddns.net",
-      "port": 17122,
-      "ssl": false
     }
   ]
 }
