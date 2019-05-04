@@ -20,9 +20,9 @@
       "port":	17122,
       "ssl":	false,
       "cache":	false
-    }
+    },
     {
-      "name":	"The slowestTurtle",
+      "name":	"The slowest Turtle",
       "url":	"154.58.202.198",
       "port":	17122,
       "ssl":	false,
