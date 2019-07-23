@@ -14,6 +14,13 @@
       "ssl":	false,
       "cache":	false
     },
+       {
+      "name":	"nibbler.hopto.org",
+      "url":	"nibbler.hopto.org",
+      "port":	17122,
+      "ssl":	false,
+      "cache":	false
+    }, 
 	{
       "name":	"node.nbx.hackerknowledge.de",
       "url":	"node.nbx.hackerknowledge.de",
