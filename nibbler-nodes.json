@@ -1,13 +1,6 @@
 {
   "nodes": [
-    {
-      "name":	"nbxc.luxflow.net",
-      "url":	"nbxc.luxflow.net",
-      "port":	17122,
-      "ssl":	false,
-      "cache":	false
-    },
-        {
+      {
       "name":	"nibble-nibble.net",
       "url":	"nibble-nibble.net",
       "port":	17122,
