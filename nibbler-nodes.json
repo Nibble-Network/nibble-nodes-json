@@ -7,13 +7,6 @@
       "ssl":	false,
       "cache":	false
     },
-	{
-      "name":	"nibblenode.net",
-      "url":	"nibblenode.net",
-      "port":	17122,
-      "ssl":	false,
-      "cache":	false
-    },
        {
       "name":	"nibbler.hopto.org",
       "url":	"nibbler.hopto.org",
@@ -22,8 +15,8 @@
       "cache":	false
     }, 
 	{
-      "name":	"node.nbx.hackerknowledge.de",
-      "url":	"node.nbx.hackerknowledge.de",
+      "name":	"nbxc.luxflow.net",
+      "url":	"nbxc.luxflow.net",
       "port":	17122,
       "ssl":	false,
       "cache":	false
