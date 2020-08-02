@@ -1,7 +1,7 @@
 {
   "nodes": [
       {
-      "name":	"nibblenode.net,
+      "name":	"nibblenode.net",
       "url":	"nibblenode.net",
       "port":	16001,
       "ssl":	false,
