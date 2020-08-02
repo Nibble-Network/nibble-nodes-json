@@ -1,23 +1,23 @@
 {
   "nodes": [
       {
-      "name":	"nibble-nibble.net",
-      "url":	"nibble-nibble.net",
-      "port":	17122,
+      "name":	"nibblenode.net,
+      "url":	"nibblenode.net",
+      "port":	16001,
       "ssl":	false,
       "cache":	false
     },
        {
-      "name":	"nibbler.hopto.org",
-      "url":	"nibbler.hopto.org",
-      "port":	17122,
+      "name":	"superblockchain.con-ip.com",
+      "url":	"superblockchain.con-ip.com",
+      "port":	16001,
       "ssl":	false,
       "cache":	false
     }, 
 	{
-      "name":	"nbxc.luxflow.net",
-      "url":	"nbxc.luxflow.net",
-      "port":	17122,
+      "name":	"crumbs.hopto.org",
+      "url":	"crumbs.hopto.org",
+      "port":	16001,
       "ssl":	false,
       "cache":	false
     }
