@@ -2,7 +2,7 @@
 
 JSON list of public daemons for NibbleClassic (https://nibble-nibble.com).
 
-This list can be consumed in your application so you'll always have an up-to-date list of public nodes. To consume the list, use the following URL: https://raw.githubusercontent.com/NibbleClassic/nibbler-nodes-json/master/nibbler-nodes.json
+This list can be consumed in your application so you'll always have an up-to-date list of public nodes. To consume the list, use the following URL: https://raw.githubusercontent.com/Nibble-Network/nibble-nodes-json/master/nibbler-nodes.json
 
 ### Adding a New Node
 
