@@ -20,6 +20,13 @@
       "port":	16001,
       "ssl":	false,
       "cache":	false
+    },
+	{
+      "name":	"nbxc.luxflow.net",
+      "url":	"nbxc.luxflow.net",
+      "port":	16001,
+      "ssl":	false,
+      "cache":	false
     }
   ]
 }
